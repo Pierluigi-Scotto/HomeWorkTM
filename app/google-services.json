@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "980957312487",
+    "firebase_url": "https://slack-8c992.firebaseio.com",
+    "project_id": "slack-8c992",
+    "storage_bucket": "slack-8c992.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980957312487:android:3da46b0244ec0cab",
+        "android_client_info": {
+          "package_name": "com.hwtm.slack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980957312487-7tnf2k0fineq6ja5ags3v835hucjk8bh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hwtm.slack",
+            "certificate_hash": "02558951774b4b37fe2b219557dff84bbc39ce76"
+          }
+        },
+        {
+          "client_id": "980957312487-g659oghfcuqj56c6uufhkpk3jslm282a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIvIe8yoV33miml9Bldh2UxuSCmECTqJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980957312487-g659oghfcuqj56c6uufhkpk3jslm282a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
